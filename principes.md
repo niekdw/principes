@@ -1,6 +1,9 @@
 # Principes
 Door [Niek](https://www.niekdewin.nl).
 
+> Principles is all about having clarity and alignment of principles and actions — alignment with yourself and with the other people who are important to you. By having good principles, and having them clearly articulated and regularly connected to one’s actions so that one’s actions are consistent with them, one will operate effectively. Further, by comparing one’s clearly-articulated principles and actions with others’ principles and actions, one can see where alignments exist and where they don’t. 
+>>  Ray Dalio, Principes
+
 ## Zelf
 - Begin iedere dag met het zetten van de toon. Begin de dag op een manier waarop je wil dat de gehele dag zal gaan. 
     - Schrijf
@@ -40,3 +43,4 @@ Door [Niek](https://www.niekdewin.nl).
     - Niet gekoppeld aan commercie
 - Gebruik een iPhone als smartphone 
 - Betaal voor waardevolle software 
+
